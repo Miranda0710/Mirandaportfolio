@@ -417,10 +417,17 @@ section{
 
 /* IMAGE */
 #about div img {
-    width: 650px;
+    /*width: 650px;
     height: 650px;
     object-fit: cover;
     border-radius: 50%;
+    */
+    width: 80%;
+        margin-bottom: 0px;
+        animation: infinite;
+        border-radius: 60%;
+        size: 50px;
+        border-radius: 70%;
 }
 
 /* DIV CONTENU – collée à droite */
@@ -429,7 +436,7 @@ section{
     display: flex;
     justify-content: flex-end; /* pousse le texte à droite */
     text-align: left;
-    font-size: 1rem;
+    /*font-size: 1rem;*/
 
 }
 .contenu {
