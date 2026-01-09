@@ -75,5 +75,5 @@ Montréal, Canada
 
 ---
 
-Merci pour votre visite 😊  
+Merci pour votre visite
 N’hésitez pas à me contacter pour toute question ou opportunité !
