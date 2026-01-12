@@ -70,7 +70,7 @@ Ce portfolio a pour but de :
 
 ## Contact
 
-Email : *(ton courriel)*  
+Email : futatmiranda@gmail.com
 Montréal, Canada
 
 ---
